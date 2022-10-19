@@ -146,8 +146,8 @@ Select the link below for any of the mentors, your calendar will open with avail
 | Luis Galaz | All Topics | HERE |
 
 
-# VIII. Contact Wizeline Academy
+# VIII. Contact Wizeline Digital Skills Accelerator
 
-If you have any questions about the program, logistics, access, etc., please contact the Wizeline Academy team.
+If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
 
 📧 Email: TBD
