@@ -1,103 +1,153 @@
-# I. Welcome
+# Digital Skills Accelerator Bootcamp - Tideworks QA Automation
 
-Welcome to your Tideworks QA Automation training which consists of 7 weeks of training.
+# I - Welcome
 
-# II. Training Overview
+Welcome to your Tideworks QA Automation bootcamp
 
-The objective of this bootcamp is to give you the opportunity to update your knowledge and developing skills, hand in hand with Wizeline engineers. The training consists of the following elements:
+# II - General Bootcamp Information
 
-# Calendar
+The objective of this bootcamp is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The bootcamp consists of the following elements:
 
-Group : Slack Group
+**Live Sessions**
 
-Online Live Sessions :
+- They are online classes (live) taught by Wizeline engineers, the sessions last 2 hour each session.
 
-They are online live classes taught by Wizeline engineers, the sessions last 2 hours.
+- Tuesday: 5:00 PM CST to 7:00 PM CST online via Zoom
+- Thursday: 5:00 PM CST to 7:00 PM CST online via Zoom
 
-Tuesday and Thursday: 5:00 PM CST to 7:00 PM CST online by Zoom.
+- During online sessions it is mandatory to have the camera on at all times.
 
-In online sessions, it is mandatory to have the camera on all the time.
+- If you are unable to attend any virtual sessions, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator.
 
-You must attend a minimum of 5 face-to-face sessions to be entitled to present your Final Project.
+**On-Demand Mentoring**
 
-If you cannot attend any virtual session, you must inform your leader with a copy to Contact Wizeline Academy.
+- These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. Below are the instructions and links to request a session.
 
-# On Demand Mentoring
+**Self-study Route**
 
-These are sessions where you can interact with Wizeline engineers to answer questions you have about the topics covered in the live sessions, the self-study material or about the Final Project.
+- This is a compilation of resources (articles, videos, audios) that we will make available to you so that you can complement your learning.
 
-2 mentoring sessions per participant. Each mentoring session is 1 hour long.  
+**Capstone Project**
+
+- This will be a challenge created to put into practice the knowledge acquired during the bootcamp.
+
+# III - Calendar
+
+In this calendar you will see the sessions that are scheduled during this course:
 
 
-# Self-study Route
 
-It is a collection of resources (articles, videos, audios) that we put at your disposal so that you can complement your learning.
-Capstone Project
+# IV - Training Curriculum
 
-It is a challenge created to put into practice the knowledge acquired during training.
-
-# III. Bootcamp Sessions
-
-Topics are divided into 7 weeks, 2 sessions per week :
+Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
 **WEEK 1**
 
-Session 1 : Kick off session / Introduction
+**Session 1 (Tuesday October 25th, 2022): Opening session / Introduction**
 
-Session 2 : Front End with Playwright Part 1
+- *Introduction
+- *Explain methodology and important dates*
+- *Explain deliverables*
+
+**Session 2 (Thursday October 27th, 2022): Front End Automation Part 1**
+
+- *Introduction to Front End Automation*
+- *Automation Tools Overview*
+- *Interacting with the Browser*
+- *Automation Workshop 1 - The Basics*
 
 **WEEK 2**
 
-Session 3 : Front End with Playwright Part 2
+**Session 3 (Tuesday November 1st 2022): Front End with Playwright Part 2**
 
-Session 4 : CheckPoint 1 - Front End Automation (Q&A)
+- *Introduction to Design Patterns*
+- *Page Object Model*
+- *Automation Workshop 2 - POM*
+
+**Session 4 (Thursday November 3rd 2022): CheckPoint 1 - Front End Automation (Q&A)**
+
+- *CheckPoint 1*
 
 **WEEK 3**
 
-Session 5 : Front End Automation Strategy
+**Session 5 (Tuesday November 8th 2022) : Front End Automation Strategy**
 
-Session 6 : Front End Automation
+- *When to automate*
+- *Automation Pyramid*
+- *Automation as an investment*
+- *What to automate*
+- *Automation Workshop 3 - Best Practices*
+
+**Session 6 (Thursday November 10th 2022): Demo 1 : Front End Automation**
+
+- *Deliverable*
 
 **WEEK 4**
 
-Session 7 : Introduction to API Testing
+**Session 7 (Tuesday November 15th 2022): Introduction to API Testing**
 
-Session 8 : API Automation using Postman and Newman
+- *Understanding how APIs work*
+- *How to test APIs*
+
+**Session 8 (Thursday November 17th 2022): API Automation using Postman and Newman**
+
+- *Postman Workshop*
+- *Newman Workshop*
 
 **WEEK 5**
 
-Session 9 : CheckPoint 2 - Front End Automation (Q&A)
+**Session 9 (Tuesday November 29th 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
-Session 10 : API Testing project
+- *CheckPoint 2*
+
+**Session 10 (Thursday December 1st 2022): Demo 2 : API Testing Project**
+
+- *Deliverable*
 
 **WEEK 6**
 
-Session 11 : DevOps Testing
+**Session 11 (Tuesday December 6th 2022): DevOps Testing**
 
-Session 12 : CI/CD with Github Actions
+- *Three way thinking*
+- *DevOps Life Cycle*
+- *DevOps pipeline*
+
+**Session 12 (Thursday December 8th 2022): CI/CD with Github Actions**
+
+- *What is Github Actions and how to set up a pipeline*
 
 **WEEK 7**
 
-Session 13 : [CI/CD Implementations] - Capstone Project
+**Session 13 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
 
-Session 14 : Final Demo Session / Bootcamp Closing (Capstone Project Demo/Delivery)
+- *Deliverable*
 
-# 📺 Recording sessions and Presentations
+**Session 14 (Thursday December 15th 2022) : Final Demo Session / Bootcamp Closing*
 
-All sessions and presentations will be recorded and shared here :
+- *Capstone Project Demonstration/Delivery*
 
-# IV. Capstone Project
+# 📺 V - Recording of Sessions and Presentations
 
-✴️ Objective to pass the course you will present a capstone project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge you have acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time.
+All sessions and presentations will be recorded and shared here:
 
-# V. Schedule Your On-Demand Mentoring 📆
+# VI - Final Project (Capstone)
 
-To schedule a personalized online mentoring with one of the mentors, follow these instructions: https://calendly.com/tideworks-qa-automation-2022/30min
+✴️ Objective to pass the bootcamp, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
 
-Select the link below of any of the mentors, it will open their calendar with availability by day and time. Choose the one that best suits your need. Remember to fill out the Feedback Form at the end of your mentorship.
+# 📆 VII - Schedule your On-Demand Mentoring
 
-# VII. Contact Wizeline Academy
+To schedule a personalized online tutorial with one of the mentors, please follow these instructions: https://calendly.com/tideworks-qa-automation-2022/30min
 
-If you have any questions about the program, logistics, access, etc. please contact the Wizeline Academy team
+Select the link below for any of the mentors, your calendar will open with availability by day and time. Choose the one that best suits your need. Remember to fill out the feedback form at the end of your tutorial.
+
+
+| MENTOR | THEME | SCHEDULE MENTORING |
+| ------ | ----- | ----------------|
+| Luis Galaz | All Topics | HERE |
+
+
+# VIII. Contact Wizeline Academy
+
+If you have any questions about the program, logistics, access, etc., please contact the Wizeline Academy team.
 
 📧 Email: TBD
