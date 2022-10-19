@@ -41,7 +41,7 @@ In this calendar you will see the sessions that are scheduled during this bootca
 
 <img width="757" alt="Screen Shot 2022-10-18 at 23 31 38" src="https://user-images.githubusercontent.com/115300095/196598309-03509758-85dd-4de3-8a27-e16b78dcf545.png">
 
-# IV - Training Curriculum
+# IV - Bootcamp Agenda
 
 Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
