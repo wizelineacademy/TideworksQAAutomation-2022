@@ -35,11 +35,11 @@ The objective of this training is to give you the opportunity to update your kno
 
 In this calendar you will see the sessions that are scheduled during this bootcamp:
 
-<img width="757" alt="Screen Shot 2022-10-18 at 23 30 55" src="https://user-images.githubusercontent.com/115300095/196598276-5f126a91-86a0-4c07-b019-571c30d20355.png">
+<img width="910" alt="1" src="https://user-images.githubusercontent.com/115300095/196768565-2cca3e22-8aa0-45ef-bf54-81b2821c13cb.png">
 
-<img width="754" alt="Screen Shot 2022-10-18 at 23 31 15" src="https://user-images.githubusercontent.com/115300095/196598296-e10fe15b-ada8-4bee-bdf7-bf0d3688f481.png">
+<img width="914" alt="2" src="https://user-images.githubusercontent.com/115300095/196768583-b8d41132-85ab-411a-a816-67b5eacaf735.png">
 
-<img width="757" alt="Screen Shot 2022-10-18 at 23 31 38" src="https://user-images.githubusercontent.com/115300095/196598309-03509758-85dd-4de3-8a27-e16b78dcf545.png">
+<img width="1043" alt="3" src="https://user-images.githubusercontent.com/115300095/196768593-ac962c9c-104e-454a-9578-fe5826260a31.png">
 
 # IV - Training Agenda
 
