@@ -1,12 +1,12 @@
-# Digital Skills Accelerator Bootcamp - Tideworks QA Automation
+# Digital Skills Accelerator - Tideworks QA Automation
 
 # I - Welcome
 
-Welcome to your Tideworks QA Automation bootcamp
+Welcome to your Tideworks QA Automation training.
 
 # II - General Bootcamp Information
 
-The objective of this bootcamp is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The bootcamp consists of the following elements:
+The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The bootcamp consists of the following elements:
 
 **Live Sessions**
 
@@ -15,13 +15,13 @@ The objective of this bootcamp is to give you the opportunity to update your kno
 - Tuesday: 5:00 PM CST to 7:00 PM CST online via Zoom
 - Thursday: 5:00 PM CST to 7:00 PM CST online via Zoom
 
-- During online sessions it is mandatory to have the camera on at all times.
+- During online sessions it is suggested to have the camera on at all times.
 
-- If you are unable to attend any virtual sessions, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator.
+- If you are unable to attend any virtual session, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator email : 
 
 **On-Demand Mentoring**
 
-- These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. Below are the instructions and links to request a session.
+- These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. HERE are the instructions and links to request a session.
 
 **Self-study Route**
 
@@ -49,24 +49,23 @@ Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
 **Session 1 (Tuesday October 25th, 2022): Opening session / Introduction**
 
-- *Introduction
-- *Explain methodology and important dates*
-- *Explain deliverables*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **Session 2 (Thursday October 27th, 2022): Front End Automation Part 1**
 
-- *Introduction to Front End Automation*
-- *Automation Tools Overview*
-- *Interacting with the Browser*
-- *Automation Workshop 1 - The Basics*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **WEEK 2**
 
 **Session 3 (Tuesday November 1st 2022): Front End with Playwright Part 2**
 
-- *Introduction to Design Patterns*
-- *Page Object Model*
-- *Automation Workshop 2 - POM*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **Session 4 (Thursday November 3rd 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
@@ -76,11 +75,9 @@ Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
 **Session 5 (Tuesday November 8th 2022) : Front End Automation Strategy**
 
-- *When to automate*
-- *Automation Pyramid*
-- *Automation as an investment*
-- *What to automate*
-- *Automation Workshop 3 - Best Practices*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **Session 6 (Thursday November 10th 2022): Demo 1 : Front End Automation**
 
@@ -90,13 +87,15 @@ Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
 **Session 7 (Tuesday November 15th 2022): Introduction to API Testing**
 
-- *Understanding how APIs work*
-- *How to test APIs*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **Session 8 (Thursday November 17th 2022): API Automation using Postman and Newman**
 
-- *Postman Workshop*
-- *Newman Workshop*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **WEEK 5**
 
@@ -112,13 +111,15 @@ Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
 **Session 11 (Tuesday December 6th 2022): DevOps Testing**
 
-- *Three way thinking*
-- *DevOps Life Cycle*
-- *DevOps pipeline*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **Session 12 (Thursday December 8th 2022): CI/CD with Github Actions**
 
-- *What is Github Actions and how to set up a pipeline*
+- *PDF / Material*
+- *Self-Learning Material*
+- *Recording*
 
 **WEEK 7**
 
@@ -140,7 +141,7 @@ All sessions and presentations will be recorded and shared here:
 
 # 📆 VII - Schedule your On-Demand Mentoring
 
-To schedule a personalized online tutorial with one of the mentors, please follow these instructions: https://calendly.com/tideworks-qa-automation-2022/30min
+To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
 Select the link below for any of the mentors, your calendar will open with availability by day and time. Choose the one that best suits your need. Remember to fill out the feedback form at the end of your tutorial.
 
