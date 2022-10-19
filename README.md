@@ -1,4 +1,5 @@
-# Digital Skills Accelerator - Tideworks QA Automation
+# Digital Skills Accelerator 
+# QA Automation Training for Tideworks
 
 # I - Welcome
 
