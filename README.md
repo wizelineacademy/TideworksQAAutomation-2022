@@ -30,11 +30,11 @@ The objective of this training is to give you the opportunity to update your kno
 
 **Capstone Project**
 
-- This will be a challenge created to put into practice the knowledge acquired during the bootcamp.
+- This will be a challenge created to put into practice the knowledge acquired during the training.
 
 # III - Calendar
 
-In this calendar you will see the sessions that are scheduled during this bootcamp:
+In this calendar you will see the sessions that are scheduled during this training:
 
 <img width="859" alt="1" src="https://user-images.githubusercontent.com/115300095/196769410-7327b649-a980-4e15-8da8-600a88ea9efa.png">
 
