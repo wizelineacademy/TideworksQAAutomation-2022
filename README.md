@@ -147,7 +147,7 @@ Select the link below for any of the mentors, your calendar will open with avail
 
 | MENTOR | THEME | SCHEDULE MENTORING |
 | ------ | ----- | ----------------|
-| Luis Galaz | All Topics | HERE |
+| Luis Galaz Pacheco | All Topics | HERE |
 
 
 # VIII. Contact Wizeline Digital Skills Accelerator
