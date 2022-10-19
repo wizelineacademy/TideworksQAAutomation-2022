@@ -4,7 +4,7 @@
 
 Welcome to your Tideworks QA Automation training.
 
-# II - General Bootcamp Information
+# II - General Training Information
 
 The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The bootcamp consists of the following elements:
 
