@@ -126,7 +126,7 @@ Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session:
 
 - *Deliverable*
 
-**Session 14 (Thursday December 15th 2022) : Final Demo Session / Bootcamp Closing*
+**Session 14 (Thursday December 15th 2022) : Final Demo Session / Bootcamp Closing**
 
 - *Capstone Project Demonstration/Delivery*
 
