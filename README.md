@@ -7,7 +7,7 @@ Welcome to your Tideworks QA Automation training.
 
 # II - General Training Information
 
-The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The bootcamp consists of the following elements:
+The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The training consists of the following elements:
 
 **Live Sessions**
 
@@ -128,7 +128,7 @@ Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session.
 
 - *Deliverable*
 
-**Session 14 (Thursday December 15th 2022) : Final Demo Session / Bootcamp Closing**
+**Session 14 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
 
 - *Capstone Project Demonstration/Delivery*
 
@@ -138,14 +138,13 @@ All sessions and presentations will be recorded and shared here:
 
 # VI - Final Project (Capstone Project)
 
-✴️ Objective to pass the bootcamp, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
+✴️ Objective to pass the training, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
 
 # 📆 VII - Schedule your On-Demand Mentoring
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-Click [HERE] to schedule your mentor session, your calendar will open with availability by day and time. Choose the one that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
-
+Click [HERE] to schedule your mentoring session, your calendar will open with availability by day and time. Choose the one that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
 # VIII. Contact Wizeline Digital Skills Accelerator
 
