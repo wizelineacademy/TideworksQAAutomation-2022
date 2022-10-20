@@ -24,7 +24,7 @@ The objective of this training is to give you the opportunity to update your kno
 
 - These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. [HERE](#-vii---schedule-your-on-demand-mentoring) are the instructions and links to request a session.
 
-**Self-study Route**
+**Self-Study Resources/Articles**
 
 - This is a compilation of resources (articles, videos, audios) that we will make available to you so that you can complement your learning.
 
@@ -36,11 +36,11 @@ The objective of this training is to give you the opportunity to update your kno
 
 In this calendar you will see the sessions that are scheduled during this training:
 
-<img width="859" alt="1" src="https://user-images.githubusercontent.com/115300095/196769410-7327b649-a980-4e15-8da8-600a88ea9efa.png">
+<img width="946" alt="Screen Shot 2022-10-19 at 23 21 36" src="https://user-images.githubusercontent.com/115300095/196855960-87ecfc75-bdf6-4c46-8d9b-82e95c25be1e.png">
 
-<img width="861" alt="2" src="https://user-images.githubusercontent.com/115300095/196769421-3e4a3fc2-e37c-4a8c-9393-54726dee4acc.png">
+<img width="942" alt="Screen Shot 2022-10-19 at 23 21 57" src="https://user-images.githubusercontent.com/115300095/196855978-79779b02-fee0-49f0-9009-c4432fa3f4f2.png">
 
-<img width="861" alt="3" src="https://user-images.githubusercontent.com/115300095/196769431-58cda616-bb60-48e2-9ba4-e1d3423c5cb2.png">
+<img width="947" alt="Screen Shot 2022-10-19 at 23 22 14" src="https://user-images.githubusercontent.com/115300095/196855989-dd18d167-56d3-4696-83bb-e6b3961c6039.png">
 
 # IV - Training Agenda
 
