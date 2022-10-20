@@ -144,12 +144,7 @@ All sessions and presentations will be recorded and shared here:
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-Select the link below for any of the mentors, your calendar will open with availability by day and time. Choose the one that best suits your need. Remember to fill out the feedback form at the end of your tutorial.
-
-
-| MENTOR | THEME | SCHEDULE MENTORING |
-| ------ | ----- | ----------------|
-| Luis Galaz Pacheco | All Topics | HERE |
+Click [HERE] to schedule your mentor session, your calendar will open with availability by day and time. Choose the one that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
 
 # VIII. Contact Wizeline Digital Skills Accelerator
