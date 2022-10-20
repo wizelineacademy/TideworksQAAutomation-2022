@@ -144,7 +144,7 @@ All sessions and presentations will be recorded and shared here:
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-Click [HERE] to schedule your mentoring session, your calendar will open with availability by day and time. Choose the one that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
+Click [HERE] to schedule your mentoring session, a form will open with availability by day and time. Choose the one that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
 # VIII. Contact Wizeline Digital Skills Accelerator
 
