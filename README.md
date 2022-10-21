@@ -36,11 +36,11 @@ The objective of this training is to give you the opportunity to update your kno
 
 In this calendar you will see the sessions that are scheduled during this training:
 
-<img width="946" alt="Screen Shot 2022-10-19 at 23 21 36" src="https://user-images.githubusercontent.com/115300095/196855960-87ecfc75-bdf6-4c46-8d9b-82e95c25be1e.png">
+<img width="1118" alt="Screen Shot 2022-10-21 at 0 26 36" src="https://user-images.githubusercontent.com/115300095/197119607-e9e38f6f-c9c4-4f9f-92e8-3b21b72d5b4b.png">
 
-<img width="942" alt="Screen Shot 2022-10-19 at 23 21 57" src="https://user-images.githubusercontent.com/115300095/196855978-79779b02-fee0-49f0-9009-c4432fa3f4f2.png">
+<img width="1115" alt="Screen Shot 2022-10-21 at 0 26 58" src="https://user-images.githubusercontent.com/115300095/197119622-a50d7694-4a13-4efb-9cf3-abafbe3d983f.png">
 
-<img width="947" alt="Screen Shot 2022-10-19 at 23 22 14" src="https://user-images.githubusercontent.com/115300095/196855989-dd18d167-56d3-4696-83bb-e6b3961c6039.png">
+<img width="1116" alt="Screen Shot 2022-10-21 at 0 27 15" src="https://user-images.githubusercontent.com/115300095/197119640-b4500fd4-c01a-454b-8c00-a8028ad2bfe3.png">
 
 # IV - Training Agenda
 
@@ -144,7 +144,7 @@ All sessions and presentations will be recorded and shared here:
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-Click [HERE] to schedule your mentoring session, a form will open with availability by day and time. Choose the one that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
+Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
 # VIII. Contact Wizeline Digital Skills Accelerator
 
