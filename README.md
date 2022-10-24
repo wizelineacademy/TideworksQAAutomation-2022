@@ -1,7 +1,7 @@
-# Digital Skills Accelerator 
+# DIGITAL SKILLS ACCELERATOR
 **QA Automation Training for Tideworks**
 
-# I - Welcome
+# I - WELCOME
 
 Welcome to your Tideworks QA Automation training.
 
@@ -32,7 +32,7 @@ The objective of this training is to give you the opportunity to update your kno
 
 - This will be a challenge created to put into practice the knowledge acquired during the training.
 
-# III - Calendar
+# III - CALENDAR
 
 In this calendar you will see the sessions that are scheduled during this training:
 
@@ -42,11 +42,13 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 <img width="1116" alt="Screen Shot 2022-10-21 at 0 27 15" src="https://user-images.githubusercontent.com/115300095/197119640-b4500fd4-c01a-454b-8c00-a8028ad2bfe3.png">
 
-# IV - Training Agenda
+# IV - TRAINING AGENDA
 
-**SYLLABUS**
+**Syllabus**
 
-You can see the detailed breakdown of topics by session by clicking [HERE](https://github.com/wizelineacademy/TideworksQAAutomation-2022/releases/tag/V.1.0.0.0)
+You can see the detailed information regarding all topics covered during the training by session, by clicking [HERE](https://github.com/wizelineacademy/TideworksQAAutomation-2022/releases/tag/V.1.0.0.0)
+
+**Agenda Breakdown**
 
 Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
