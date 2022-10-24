@@ -44,93 +44,82 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 # IV - Training Agenda
 
-Topics are divided into 7 weeks, 2 sessions per week, 2 hour per session.
+Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 **WEEK 1**
 
-**Session 1 (Tuesday October 25th, 2022): Opening session / Introduction**
+**Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-Introduction
+-Explain methodology and important dates
+-Explain deliverables
 
-**Session 2 (Thursday October 27th, 2022): Front End Automation Part 1**
+**Session 2 (Thursday November 3rd 2022): Front End Automation Part 1**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-Introduction to Front End Automation
+-Automation Tools Overview
+-Interacting with the Browser
+-Automation Workshop 1 - The Basics
 
 **WEEK 2**
 
-**Session 3 (Tuesday November 1st 2022): Front End with Playwright Part 2**
+**Session 3 (Tuesday November 8th 2022): Front End with Playwright Part 2**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-Introduction to Design Patterns
+-Page Object Model
+-Automation Workshop 2 - POM
 
-**Session 4 (Thursday November 3rd 2022): CheckPoint 1 - Front End Automation (Q&A)**
+**Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
-- *CheckPoint 1*
+-CheckPoint 1
 
 **WEEK 3**
 
-**Session 5 (Tuesday November 8th 2022) : Front End Automation Strategy**
+**Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-When to automate
+-Automation Pyramid
+-Automation as an investment
+-What to automate
+-Automation Workshop 3 - Best Practices
 
-**Session 6 (Thursday November 10th 2022): Demo 1 : Front End Automation**
+**Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
-- *Deliverable*
+-Understanding how APIs work
+-How to test APIs
 
 **WEEK 4**
 
-**Session 7 (Tuesday November 15th 2022): Introduction to API Testing**
+**Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-Postman Workshop
+-Newman Workshop
 
-**Session 8 (Thursday November 17th 2022): API Automation using Postman and Newman**
+**Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-CheckPoint 2
 
 **WEEK 5**
 
-**Session 9 (Tuesday November 29th 2022): CheckPoint 2 - Front End Automation (Q&A)**
+**Session 9 (Tuesday December 6th 2022): DevOps Testing**
 
-- *CheckPoint 2*
+-Three way thinking
+-DevOps Life Cycle
+-DevOps pipeline
 
-**Session 10 (Thursday December 1st 2022): Demo 2 : API Testing Project**
+**Session 10 (Thursday December 8th 2022): CI/CD with Github Actions**
 
-- *Deliverable*
+-What is Github Actions and how to set up a pipeline
 
 **WEEK 6**
 
-**Session 11 (Tuesday December 6th 2022): DevOps Testing**
+**Session 11 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
+-Deliverable
 
-**Session 12 (Thursday December 8th 2022): CI/CD with Github Actions**
+**Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
 
-- *PDF / Material*
-- *Self-Learning Material*
-- *Recording*
-
-**WEEK 7**
-
-**Session 13 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
-
-- *Deliverable*
-
-**Session 14 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
-
-- *Capstone Project Demonstration/Delivery*
+-Capstone Project Demonstration/Delivery
 
 # 📺 V - Recording of Sessions and Presentations
 
