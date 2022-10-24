@@ -50,72 +50,79 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 **Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
 
-- Introduction
-- Explain methodology and important dates
-- Explain deliverables
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **Session 2 (Thursday November 3rd 2022): Front End Automation Part 1**
 
-- Introduction to Front End Automation
-- Automation Tools Overview
-- Interacting with the Browser
-- Automation Workshop 1 - The Basics
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **WEEK 2**
 
 **Session 3 (Tuesday November 8th 2022): Front End with Playwright Part 2**
 
-- Introduction to Design Patterns
-- Page Object Model
-- Automation Workshop 2 - POM
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
-- CheckPoint 1
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **WEEK 3**
 
 **Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
-- When to automate
-- Automation Pyramid
-- Automation as an investment
-- What to automate
-- Automation Workshop 3 - Best Practices
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
-- Understanding how APIs work
-- How to test APIs
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **WEEK 4**
 
 **Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
 
-- Postman Workshop
-- Newman Workshop
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
-- CheckPoint 2
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **WEEK 5**
 
 **Session 9 (Tuesday December 6th 2022): DevOps Testing**
 
-- Three way thinking
-- DevOps Life Cycle
-- DevOps pipeline
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **Session 10 (Thursday December 8th 2022): CI/CD with Github Actions**
 
-- What is Github Actions and how to set up a pipeline
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **WEEK 6**
 
 **Session 11 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
 
-- Deliverable
+- PDF / Material
+- Self-Learing Material
+- Session Recording
 
 **Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
 
