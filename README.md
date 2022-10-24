@@ -51,13 +51,13 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **Session 2 (Thursday November 3rd 2022): Front End Automation Part 1**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **WEEK 2**
@@ -65,13 +65,13 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 3 (Tuesday November 8th 2022): Front End with Playwright Part 2**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **WEEK 3**
@@ -79,13 +79,13 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **WEEK 4**
@@ -93,13 +93,13 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **WEEK 5**
@@ -107,13 +107,13 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 9 (Tuesday December 6th 2022): DevOps Testing**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **Session 10 (Thursday December 8th 2022): CI/CD with Github Actions**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **WEEK 6**
@@ -121,7 +121,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 11 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
 
 - PDF / Material
-- Self-Learing Material
+- Self-Learning Material
 - Session Recording
 
 **Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
