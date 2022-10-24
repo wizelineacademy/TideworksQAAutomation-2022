@@ -152,4 +152,4 @@ Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H
 
 If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
 
-📧 Email: TBD
+📧 Email: dsa-tideworks@wizeline.com
