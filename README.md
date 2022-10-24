@@ -44,7 +44,7 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 # IV - Training Agenda
 
-**Syllabus**
+**SYLLABUS**
 
 You can see the detailed breakdown of topics by session by clicking [HERE](https://github.com/wizelineacademy/TideworksQAAutomation-2022/releases/tag/V.1.0.0.0)
 
