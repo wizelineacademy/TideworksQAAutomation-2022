@@ -5,7 +5,7 @@
 
 Welcome to your Tideworks QA Automation training.
 
-# II - General Training Information
+# II - GENERAL TRAINING INFORMATION
 
 The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The training consists of the following elements:
 
@@ -134,21 +134,21 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 - Capstone Project Demonstration/Delivery
 
-# 📺 V - Recording of Sessions and Presentations
+# 📺 V - RECORDINGS OF SESSIONS & PRESENTATIONS
 
 All sessions and presentations will be recorded and shared here:
 
-# VI - Final Project (Capstone Project)
+# VI - FINAL PROJECT (CAPSTONE PROJECT)
 
 ✴️ Objective to pass the training, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
 
-# 📆 VII - Schedule your On-Demand Mentoring
+# 📆 VII - SCHEDULE YOUR ON-DEMAND MENTORING
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
 Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
-# VIII. Contact Wizeline Digital Skills Accelerator
+# VIII - CONTACT WIZELINE'S DIGITAL SKILLS ACCELERATOR TEAM
 
 If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
 
