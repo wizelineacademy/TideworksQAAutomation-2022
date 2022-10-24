@@ -44,6 +44,10 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 # IV - Training Agenda
 
+**Syllabus**
+
+You can see the detailed breakdown of topics by session by clicking [HERE] (https://github.com/wizelineacademy/TideworksQAAutomation-2022/releases/tag/V.1.0.0.0)
+
 Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 **WEEK 1**
