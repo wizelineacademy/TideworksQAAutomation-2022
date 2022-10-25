@@ -136,7 +136,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 # V - Final Project (Capstone Project)
 
-✴️ Objective to pass the training, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
+✴️ As part of the Capstone Project deliverable, you will present a project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired during the training.
 
 # 📆 VI - Schedule Your On-Demand Mentoring Session
 
