@@ -134,17 +134,17 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 - Capstone Project Demonstration/Delivery
 
-# V - FINAL PROJECT (CAPSTONE PROJECT)
+# V - Final Project (Capstone Project)
 
 ✴️ Objective to pass the training, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
 
-# 📆 VI - SCHEDULE YOUR ON-DEMAND MENTORING
+# 📆 VI - Schedule Your On-Demand Mentoring
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
 Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
-# VII - CONTACT WIZELINE'S DIGITAL SKILLS ACCELERATOR TEAM
+# VII - Contact Wizeline's Digital Skills Accelerator
 
 If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
 
