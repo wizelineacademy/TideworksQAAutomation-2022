@@ -138,7 +138,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 ✴️ Objective to pass the training, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
 
-# 📆 VI - Schedule Your On-Demand Mentoring
+# 📆 VI - Schedule Your On-Demand Mentoring Session
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
