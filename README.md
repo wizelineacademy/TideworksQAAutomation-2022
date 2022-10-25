@@ -22,7 +22,7 @@ The objective of this training is to give you the opportunity to update your kno
 
 **On-Demand Mentoring**
 
-- These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. [HERE](#-vii---schedule-your-on-demand-mentoring) are the instructions and links to request a session.
+- These are sessions where you will be able to interact with Wizeline engineers to answer any questions you may have about the topics covered in the live sessions, the self-study material or about the final project. Mentorships last 1 hour, are online and are on demand. [HERE](#-vi---schedule-your-on-demand-mentoring-session) are the instructions and links to request a session.
 
 **Self-Study Resources/Articles**
 
