@@ -1,11 +1,11 @@
 # DIGITAL SKILLS ACCELERATOR
 **QA Automation Training for Tideworks**
 
-# I - WELCOME
+# I - Welcome
 
 Welcome to your Tideworks QA Automation training.
 
-# II - GENERAL TRAINING INFORMATION
+# II - General Training Information
 
 The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The training consists of the following elements:
 
@@ -32,7 +32,7 @@ The objective of this training is to give you the opportunity to update your kno
 
 - This will be a challenge created to put into practice the knowledge acquired during the training.
 
-# III - CALENDAR
+# III - Calendar
 
 In this calendar you will see the sessions that are scheduled during this training:
 
@@ -42,7 +42,7 @@ In this calendar you will see the sessions that are scheduled during this traini
 
 <img width="1116" alt="Screen Shot 2022-10-21 at 0 27 15" src="https://user-images.githubusercontent.com/115300095/197119640-b4500fd4-c01a-454b-8c00-a8028ad2bfe3.png">
 
-# IV - TRAINING AGENDA
+# IV - Training Agenda
 
 **Syllabus**
 
@@ -134,21 +134,17 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 - Capstone Project Demonstration/Delivery
 
-# 📺 V - RECORDINGS OF SESSIONS & PRESENTATIONS
-
-All sessions and presentations will be recorded and shared here:
-
-# VI - FINAL PROJECT (CAPSTONE PROJECT)
+# V - FINAL PROJECT (CAPSTONE PROJECT)
 
 ✴️ Objective to pass the training, you will present a final project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired. In the 6th week the session will be scheduled and we will notify you by mail of the day and time of delivery.
 
-# 📆 VII - SCHEDULE YOUR ON-DEMAND MENTORING
+# 📆 VI - SCHEDULE YOUR ON-DEMAND MENTORING
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
 Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
 
-# VIII - CONTACT WIZELINE'S DIGITAL SKILLS ACCELERATOR TEAM
+# VII - CONTACT WIZELINE'S DIGITAL SKILLS ACCELERATOR TEAM
 
 If you have any questions about the program, logistics, access, etc., please contact the Wizeline Digital Skills Accelerator team.
 
