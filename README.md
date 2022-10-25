@@ -7,7 +7,7 @@ Welcome to your Tideworks QA Automation training.
 
 # II - General Training Information
 
-The objective of this training is to give you the opportunity to update your knowledge and develop skills, hand in hand with Wizeline engineers. The training consists of the following elements:
+This QA automation training will equip you with the skills you need to be able to confidently design and implement testing strategies into DevOps lifecycles, as well as to create and maintain test automation frameworks that exceed company expectations.
 
 **Live Sessions**
 
