@@ -142,7 +142,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out the feedback form at the end of your tutorial.
+Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out [THIS](https://docs.google.com/forms/d/e/1FAIpQLScO3FTp4Xlf8mtPf3Q93r-wm4m6OJNS24SA8XjCCtmYXArx0g/viewform) feedback form at the end of your tutorial.
 
 # VII - Contact Wizeline's Digital Skills Accelerator
 
