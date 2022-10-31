@@ -149,11 +149,11 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 At any point of the training, you can request a 1:1 session with an expert from Wizeline. Here is how To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-
-- Click on this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule a session
-- A form will be open, fill all the fields and necessary information.
-- The mentor will setup a 1:1 booked mentoring session based on your selections.
-- The mentor will get back to you with the booked date and time information and the channel of the mentoring session.
+- Click on this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to access a google form to schedule a session
+- Fill in all the fields with your information.
+- The DSA staff will review your request.
+- The DSA staff will setup the mentoring session based on your info and the mentor’s availability and will send you the zoom link for the meeting.
+- If there are difficulties with schedule and availability, DSA staff will reach out to you to sort it out.
 - Join the call in the date and time scheduled
 - Once the meeting finishes, fill in [THIS](https://docs.google.com/forms/d/e/1FAIpQLScO3FTp4Xlf8mtPf3Q93r-wm4m6OJNS24SA8XjCCtmYXArx0g/viewform) feedback form at the end of your tutorial
 
