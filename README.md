@@ -13,12 +13,12 @@ This QA automation training will equip you with the skills you need to be able t
 
 - They are online classes (live) taught by Wizeline engineers, the sessions last 2 hour each session.
 
-Week 1 :
+Week 1 (Nov 1st - Nov 4th 2022) :
 
 - Tuesday: 4:00 PM CST to 6:00 PM CST (15:00 - 17:00 PST) online via Zoom
 - Thursday: 4:00 PM CST to 6:00 PM CST (15:00 - 17:00 PST) online via Zoom
 
-Week 2 :
+Week 2-Onwards :
 
 - Tuesday: 5:00 PM CST to 7:00 PM CST (16:00 - 18:00 PST) online via Zoom
 - Thursday: 5:00 PM CST to 7:00 PM CST (16:00 - 18:00 PST) online via Zoom
