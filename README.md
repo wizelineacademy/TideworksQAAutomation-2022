@@ -147,7 +147,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 # 📆 VI - Schedule Your On-Demand Mentoring Session
 
-At any point of the training, you can request a 1:1 session with an expert from Wizeline. Here is how To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
+At any point of the training, you can request a 1:1 with an expert from Wizeline. Here is how:
 
 - Click on this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to access a google form to schedule a session
 - Fill in all the fields with your information.
