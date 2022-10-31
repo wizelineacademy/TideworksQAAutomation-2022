@@ -43,7 +43,7 @@ Week 2-Onwards :
 
 In this calendar you will see the sessions that are scheduled during this training:
 
-<img width="974" alt="1" src="https://user-images.githubusercontent.com/115300095/199071581-d34d9af2-b470-4905-ac67-3e64a2a31027.png">
+<img width="1094" alt="1" src="https://user-images.githubusercontent.com/115300095/199072155-228415da-0372-45a4-9ac3-0fba0ec3e199.png">
 
 <img width="1115" alt="Screen Shot 2022-10-21 at 0 26 58" src="https://user-images.githubusercontent.com/115300095/197119622-a50d7694-4a13-4efb-9cf3-abafbe3d983f.png">
 
