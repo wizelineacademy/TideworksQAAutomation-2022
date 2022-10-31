@@ -147,9 +147,22 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 # 📆 VI - Schedule Your On-Demand Mentoring Session
 
-To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
+At any point of the training, you can request a 1:1 session with an expert from Wizeline. Here is how To schedule a personalized online tutorial with one of the mentors, please follow these instructions:
 
-Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule your mentoring session, a form will open. Enter and select the infomation that best suits your needs. Remember to fill out [THIS](https://docs.google.com/forms/d/e/1FAIpQLScO3FTp4Xlf8mtPf3Q93r-wm4m6OJNS24SA8XjCCtmYXArx0g/viewform) feedback form at the end of your tutorial.
+
+- Click on this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfOnz97x892Zgs85NJgmkwGI4H4e6ucK7zWrWswrrYM_t_L8g/viewform?usp=sf_link) to schedule a session
+- A form will be open, fill all the fields and necessary information.
+- The mentor will setup a 1:1 booked mentoring session based on your selections.
+- The mentor will get back to you with the booked date and time information and the channel of the mentoring session.
+- Join the call in the date and time scheduled
+- Once the meeting finishes, fill in [THIS](https://docs.google.com/forms/d/e/1FAIpQLScO3FTp4Xlf8mtPf3Q93r-wm4m6OJNS24SA8XjCCtmYXArx0g/viewform) feedback form at the end of your tutorial
+
+Important:
+
+If you can’t take the meeting, please send an email to dsa-tideworks@wizeline.com 
+If you are running late, please send a message on Teams to let him know.
+Mentors will only wait for 10 min if no notification is given and then log of from the call.
+If you still need the session, please book another session following same procedure. 
 
 # VII - Contact Wizeline's Digital Skills Accelerator
 
