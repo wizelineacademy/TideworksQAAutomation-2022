@@ -25,7 +25,7 @@ Week 2-Onwards :
 
 - During online sessions it is suggested to have the camera on at all times.
 
-- If you are unable to attend any virtual session, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator email : 
+- If you are unable to attend any virtual session, you must inform your leader with a copy to contact Wizeline Digital Skills Accelerator email : dsa-tideworks@wizeline.com
 
 **On-Demand Mentoring**
 
