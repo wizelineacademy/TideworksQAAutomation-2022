@@ -2,7 +2,7 @@
 
 Instructor : Luis Galaz Pacheco
 
-**Topics :**
+# Topics :
 
 ● Introduction
 
@@ -10,6 +10,6 @@ Instructor : Luis Galaz Pacheco
 
 ● Q&A
 
-**Material :**
+# Material :
 
 [Available Here]
