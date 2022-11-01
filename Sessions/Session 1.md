@@ -1,4 +1,4 @@
-# Session 1 (Tuesday November 1st 2022) : Kick Off
+# Session 1 (Tuesday November 1st 2022) : Opening Session / Introduction
 
 Instructor : Luis Galaz Pacheco
 
