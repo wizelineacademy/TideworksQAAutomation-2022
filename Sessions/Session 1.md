@@ -1,6 +1,6 @@
 # Session 1 (Tuesday November 1st 2022) : Opening Session / Introduction
 
-Instructor : Luis Galaz Pacheco
+Instructor : DSA Staff
 
 # Topics :
 
