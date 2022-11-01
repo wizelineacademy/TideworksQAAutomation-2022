@@ -63,7 +63,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 **Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%201.md)
 - Self-Learning Material
 - Session Recording
 
