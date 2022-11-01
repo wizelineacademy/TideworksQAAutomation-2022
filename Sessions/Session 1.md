@@ -12,4 +12,4 @@ Instructor : Luis Galaz Pacheco
 
 # Material :
 
-[Available Here](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/9914217/DSA-Tideworks.QA.Automation.Kick.Off.pptx.pdf)
+[Available Here](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/9914595/DSA-Tideworks.QA.Automation.Kick.Off.pptx.pdf)
