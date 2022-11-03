@@ -1,4 +1,4 @@
-# Session 2 (Tuesday November 1st 2022) : Front End Automation Part 1
+# Session 2 (Thursday November 3rd 2022) : Front End Automation Part 1
 
 Instructor : Luis Galaz Pacheco
 
