@@ -123,7 +123,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 - Self-Learning Material
 - Session Recording
 
-**Session 10 (Thursday December 8th 2022): CI/CD with Github Actions**
+**Session 10 (Thursday December 8th 2022): CI/CD with Jenkins**
 
 - PDF / Material
 - Self-Learning Material
