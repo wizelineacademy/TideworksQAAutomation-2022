@@ -5,8 +5,11 @@ Instructor : Luis Galaz Pacheco
 # Topics :
 
 ● Introduction to Front End Automation
+
 ● Automation Tools Overview
+
 ● Interacting with the Browser
+
 ● Automation Workshop 1 - The Basics
 
 # Material :
