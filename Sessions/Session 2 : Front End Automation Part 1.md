@@ -14,4 +14,4 @@ Instructor : Luis Galaz Pacheco
 
 # Material :
 
-[Available Here]
+[Available Here](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/9953324/Tideworks.Training.-.Front.End.Session.1.pdf)
