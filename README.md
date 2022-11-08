@@ -75,13 +75,13 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 **Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
 
 - [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%201%20:%20Introduction-Kick%20Off.md)
-- Session Recording
+- [Session Recording](https://youtu.be/UZS-glnyHUk)
 
 **Session 2 (Thursday November 3rd 2022): Front End Automation Part 1**
 
 - [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%202%20:%20Front%20End%20Automation%20Part%201.md#session-2-thursday-november-3rd-2022--front-end-automation-part-1)
 - [Self-Learning Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/9934324/Front.End.Automation.Part.1.Self-Learning.pdf)
-- Session Recording
+- [Session Recording](https://youtu.be/BfW8DmoorZE)
 
 **WEEK 2**
 
