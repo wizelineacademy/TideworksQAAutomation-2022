@@ -8,9 +8,9 @@ Table of Contents
 * [II - General Training Information](#ii---general-training-information)
 * [III - Calendar](#iii---calendar)
 * [IV - Training Agenda](#iv---training-agenda)
-* [V - Final Project (Capstone Project)](#v---final-cproject-capstone-project)
-* [VI - Schedule Your On-Demand Mentoring Session](#-vi---agenda-tu-mentoria-sobre-pedido-mentoring-on-demand)
-* [VII. Contacto de Wizeline Digital Skills Accelerator](#vii-contacto-de-wizeline-digital-skills-accelerator)
+* [V - Final Project (Capstone Project)](#v---final-project-capstone-project)
+* [VI - Schedule Your On-Demand Mentoring Session](#-vi---schedule-your-on-demand-mentoring-session)
+* [VII. Contacto de Wizeline Digital Skills Accelerator](#vii---contact-wizelines-digital-skills-accelerator)
 
 # I - Welcome
 
