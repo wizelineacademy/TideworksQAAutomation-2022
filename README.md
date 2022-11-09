@@ -70,6 +70,10 @@ You can see the detailed information regarding all topics covered during the tra
 
 Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
+**Session Feedback**
+
+At the end of each live session, please fill our [Session Survey](https://docs.google.com/forms/d/e/1FAIpQLSefuTpMYu9SJN3bTVCsoSxhy9M7Tq6bkOemvqkO6Zutx7CsEg/viewform) to help us make your learning experience better.
+
 **WEEK 1**
 
 **Session 1 (Tuesday November 1st 2022): Opening session / Introduction**
