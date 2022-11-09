@@ -89,7 +89,7 @@ Topics are divided into 6 weeks, 2 sessions per week, 2 hour per session.
 
 - PDF / Material
 - Self-Learning Material
-- Session Recording
+- [Session Recording](https://youtu.be/B2NEuGSi4Ks)
 
 **Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
