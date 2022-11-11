@@ -92,7 +92,6 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 3 (Tuesday November 8th 2022): Front End with Playwright Part 2**
 
 - [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%203%20:%20Front%20End%20with%20Playwright%20Part%202.md)
-- Self-Learning Material
 - [Session Recording](https://youtu.be/B2NEuGSi4Ks)
 
 **Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
@@ -105,13 +104,11 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **WEEK 4**
@@ -119,13 +116,11 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **WEEK 5**
@@ -133,13 +128,11 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 9 (Tuesday December 6th 2022): DevOps Testing**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **Session 10 (Thursday December 8th 2022): CI/CD with Jenkins**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **WEEK 6**
@@ -147,7 +140,6 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 11 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
