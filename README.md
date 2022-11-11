@@ -91,14 +91,13 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 3 (Tuesday November 8th 2022): Front End with Playwright Part 2**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%203%20:%20Front%20End%20with%20Playwright%20Part%202.md)
 - Self-Learning Material
 - [Session Recording](https://youtu.be/B2NEuGSi4Ks)
 
 **Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
 - PDF / Material
-- Self-Learning Material
 - Session Recording
 
 **WEEK 3**
