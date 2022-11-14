@@ -96,8 +96,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 4 (Thursday November 10th 2022): CheckPoint 1 - Front End Automation (Q&A)**
 
-- PDF / Material
-- Session Recording
+- [Session Recording](https://youtu.be/YwYekEeGbxQ)
 
 **WEEK 3**
 
