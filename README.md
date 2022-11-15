@@ -147,7 +147,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 # V - Final Project (Capstone Project)
 
-✴️ As part of the Capstone Project deliverable, you will present a project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired during the training.
+✴️ As part of the Capstone Project deliverable, you will present a project that will be part of the final evaluation via Zoom, in which you will reinforce and apply the knowledge acquired during the training. You can find the document with the Capstone Project breakdown and delivery dates over [HERE]((https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/10013487/_Capstone.Project.Definition.-.Automation.Bootcamp.pdf))
 
 # 📆 VI - Schedule Your On-Demand Mentoring Session
 
