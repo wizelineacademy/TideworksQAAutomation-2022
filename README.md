@@ -103,7 +103,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
 - [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/10022671/Tideworks.Training.-.Front.End.Session.3.pdf)
-- Session Recording
+- [Session Recording](https://youtu.be/ZMuSrHhSPfo)
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
