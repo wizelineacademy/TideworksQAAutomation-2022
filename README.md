@@ -102,7 +102,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy**
 
-- PDF / Material
+- [PDF / Material]
 - Session Recording
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
