@@ -107,7 +107,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 6 (Thursday November 17th 2022): Introduction to API Testing**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/10037271/Tideworks.Training.-.API.Testing.pdf)
 - Session Recording
 
 **WEEK 4**
