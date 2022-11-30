@@ -1,4 +1,4 @@
-# Session 3 (Tuesday November 8th 2022) : Front End Automation Strategy
+# Session 3 (Tuesday November 15th 2022) : Front End Automation Strategy
 
 Instructor : Luis Galaz Pacheco
 
@@ -16,4 +16,4 @@ Instructor : Luis Galaz Pacheco
 
 # Material :
 
-[Available Here]
+[Available Here](https://github.com/wizelineacademy/TideworksQAAutomation-2022/files/10022671/Tideworks.Training.-.Front.End.Session.3.pdf)
