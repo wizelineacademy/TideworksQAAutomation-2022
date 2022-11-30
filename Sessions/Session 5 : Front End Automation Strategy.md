@@ -1,4 +1,4 @@
-# Session 3 (Tuesday November 15th 2022) : Front End Automation Strategy
+# Session 5 (Tuesday November 15th 2022) : Front End Automation Strategy
 
 Instructor : Luis Galaz Pacheco
 
