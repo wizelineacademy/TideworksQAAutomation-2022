@@ -114,8 +114,8 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 7 (Tuesday November 29th 2022): API Automation using Postman and Newman**
 
-- PDF / Material
-- Session Recording
+- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%207%20:%20API%20Automation)
+- [Session Recording](https://youtu.be/9EyJwfD7j5o)
 
 **Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
