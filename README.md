@@ -119,8 +119,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 8 (Thursday December 1st 2022): CheckPoint 2 - Front End Automation (Q&A)**
 
-- PDF / Material
-- Session Recording
+- [Session Recording](https://youtu.be/fy_PbP7wIIg)
 
 **WEEK 5**
 
