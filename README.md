@@ -125,7 +125,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 9 (Tuesday December 6th 2022): DevOps Testing**
 
-- PDF / Material
+- [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%209%20:%20DevOps%20Testing.md)
 - Session Recording
 
 **Session 10 (Thursday December 8th 2022): CI/CD with Jenkins**
