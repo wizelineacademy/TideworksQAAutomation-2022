@@ -1,4 +1,4 @@
-# Session 7 (Tuesday December 6th 2022) : DevOps Testing
+# Session 9 (Tuesday December 6th 2022) : DevOps Testing
 
 Instructor : Carlos Veloz
 
