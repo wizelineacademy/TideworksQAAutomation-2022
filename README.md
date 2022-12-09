@@ -128,14 +128,13 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 - [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%209%20:%20DevOps%20Testing.md)
 - [Session Recording](https://youtu.be/wzV-DR24N-Y)
 
-**Session 10 (Thursday December 8th 2022): CI/CD with Jenkins**
+**Session 10 (Thursday December 8th 2022): CheckPoint 3**
 
-- PDF / Material
-- Session Recording
+- [Session Recording](https://youtu.be/3YIi_yksFsk)
 
 **WEEK 6**
 
-**Session 11 (Tuesday December 13th 2022): CI/CD Implementations - Capstone Project**
+**Session 11 (Tuesday December 13th 2022): CI/CD Implementations**
 
 - PDF / Material
 - Session Recording
