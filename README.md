@@ -137,6 +137,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 11 (Tuesday December 13th 2022): CI/CD Implementations**
 
 - PDF / Material
+- [Resource] (https://www.simplilearn.com/tutorials/jenkins-tutorial/jenkins-installation-on-windows)
 - Session Recording
 
 **Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
