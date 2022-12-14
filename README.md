@@ -137,7 +137,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 **Session 11 (Tuesday December 13th 2022): CI/CD Implementations**
 
 - [PDF / Material](https://github.com/wizelineacademy/TideworksQAAutomation-2022/blob/main/Sessions/Session%2011%20:%20CICD%20Implementation.md)
-- [Resource] (https://www.simplilearn.com/tutorials/jenkins-tutorial/jenkins-installation-on-windows)
+- [Resource](https://www.simplilearn.com/tutorials/jenkins-tutorial/jenkins-installation-on-windows)
 - [Session Recording](https://youtu.be/DaD0Crk7eHA)
 
 **Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
