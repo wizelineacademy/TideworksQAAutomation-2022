@@ -142,7 +142,7 @@ At the end of each live session, please fill our [Session Survey](https://docs.g
 
 **Session 12 (Thursday December 15th 2022) : Final Demo Session / Training Closing**
 
-- Capstone Project Demonstration/Delivery
+- [Capstone Project Demonstration/Delivery](https://youtu.be/c-tQU4JT4uU)
 
 # V - Final Project (Capstone Project)
 
